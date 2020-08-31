@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**Avinashroffl/Avinashroffl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm   Avinash.R .
+Thanks for visiting my Github Profile.
 
-Here are some ideas to get you started:
+connect me here:
+[LinkedIn](https://www.linkedin.com/in/avinash-r-132708145/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
+
+SHOOT ME A MAIL: avinashroffl@gmail.com 
+
+
+- 🌱 I’m currently learning
+  DATA SCIENCE , MACHINE LEARNING 
+
+- 📫 About to reach me?
+
+  VISIT MY WEBSITE: https://avinashr.000webhostapp.com/
+  
