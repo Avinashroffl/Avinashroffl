@@ -3,7 +3,7 @@ I'm   Avinash.R .
 Thanks for visiting my Github Profile.
 
 connect me here:
-[LinkedIn](https://www.linkedin.com/in/avinash-r-132708145/) 
+[LinkedIn](https://www.linkedin.com/in/avinashrofficial/) 
 
 
 Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
