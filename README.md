@@ -12,7 +12,7 @@ SHOOT ME A MAIL: avinashroffl@gmail.com
 
 
 - 🌱 I’m currently learning
-  DATA SCIENCE , MACHINE LEARNING 
+  WEB DEVELOPMENT ,MACHINE LEARNING.
 
 - 📫 About to reach me?
 
