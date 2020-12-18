@@ -16,5 +16,5 @@ SHOOT ME A MAIL: avinashroffl@gmail.com
 
 - 📫 About to reach me?
 
-  VISIT MY WEBSITE: https://avinashr.000webhostapp.com/
+  VISIT MY WEBSITE: https://avinashroffl.github.io/
   
