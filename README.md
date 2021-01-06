@@ -1,8 +1,5 @@
 # Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
 
-:pencil2: connect me here:
-[LinkedIn](https://www.linkedin.com/in/avinashrofficial/)  :innocent:
-
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/) 
 
