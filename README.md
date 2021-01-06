@@ -1,7 +1,7 @@
 # Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
 
 :pencil2: Catch me also here:
-(https://about.me/avinashroffl/) 
+(https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
 
 
 :pencil2: Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
@@ -30,4 +30,4 @@
   </p>
   <img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/bottom.svg" alt="bottom">
   
-  ![hi](https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif)
+  
