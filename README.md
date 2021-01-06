@@ -1,5 +1,4 @@
-# Hi, I'm Avinash R 👋🏾 👩🏾‍💻   :blossom:
-I'm   Avinash.R .  :santa:
+# Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
 
 :pencil2: connect me here:
 [LinkedIn](https://www.linkedin.com/in/avinashrofficial/)  :innocent:
