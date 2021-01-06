@@ -1,6 +1,5 @@
-Welcome All    :blossom:
-I'm   Avinash.R . | :santa:
-Thanks for visiting my Github Profile.
+# Hi, I'm Avinash R 👋🏾 👩🏾‍💻   :blossom:
+I'm   Avinash.R .  :santa:
 
 :pencil2: connect me here:
 [LinkedIn](https://www.linkedin.com/in/avinashrofficial/)  :innocent:
@@ -22,3 +21,5 @@ Thanks for visiting my Github Profile.
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or http://avinashroffl.wordpress.com/
   
+
+:blossom: Thanks for visiting my Github Profile.
