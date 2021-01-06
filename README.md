@@ -1,5 +1,5 @@
 # Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
-<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="1920" height="350" />
+<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="1546" height="180" />
 
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
@@ -21,7 +21,7 @@
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-      ![hi](https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif)
+      
 
   <p align="center">
     <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
