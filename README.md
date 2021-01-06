@@ -1,23 +1,24 @@
-
-I'm   Avinash.R .
+Welcome All    :blossom:
+I'm   Avinash.R . | :santa:
 Thanks for visiting my Github Profile.
 
-connect me here:
-[LinkedIn](https://www.linkedin.com/in/avinashrofficial/) 
+:pencil2: connect me here:
+[LinkedIn](https://www.linkedin.com/in/avinashrofficial/)  :innocent:
 
-Catch me also here:
-(https://about.me/avinashroffl/)
-
-
-Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
-
-SHOOT ME A MAIL: avinashroffl@gmail.com 
+:pencil2: Catch me also here:
+(https://about.me/avinashroffl/) 
 
 
-- 🌱 I’m currently learning
-  WEB DEVELOPMENT ,MACHINE LEARNING , CYBERSECURITY
+:pencil2: Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
 
-- 📫 About to reach me?
+:pencil2: SHOOT ME A MAIL: avinashroffl@gmail.com :speech_balloon:
 
-  VISIT MY WEBSITE: https://avinashroffl.github.io/
+
+- 🌱 I’m interested in 
+  WEB DEVELOPMENT ,MACHINE LEARNING and  CYBERSECURITY
+
+- 📫 About to reach me? :runner:
+
+ :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
+  or http://avinashroffl.wordpress.com/
   
