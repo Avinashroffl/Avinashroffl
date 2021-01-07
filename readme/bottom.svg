@@ -8,7 +8,7 @@
 <stop offset="1" stop-color="#336886"/>
 </linearGradient>
 <clipPath id="clip0">
-<rect width="1140" height="156" fill="white" transform="translate(1140 156) rotate(180)"/>
+<rect width="1140" height="156" fill="white" transform="translate(1140 156) rotate(0)"/>
 </clipPath>
 </defs>
 </svg>
