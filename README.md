@@ -1,5 +1,5 @@
 # Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
-<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="700" height="200" />
+<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="650" height="200" />
 
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
