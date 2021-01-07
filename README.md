@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif" width="650" height="200" />
 </p>
+<p align="center">
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
 
@@ -18,7 +19,7 @@
 
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or http://avinashroffl.wordpress.com/
-
+</p>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
