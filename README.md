@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/up.svg" alt="up">
-# Hi, I'm Avinash R 👋🏾 :santa: 👩🏾‍💻   :blossom:
+
 <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="650" height="200" />
 
 :pencil2: Catch me also here:
