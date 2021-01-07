@@ -1,4 +1,4 @@
-<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/up.svg" alt="up">
+<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/top.svg" alt="up">
 <p align="center">
 <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif" width="650" height="200" />
 </p>
@@ -34,6 +34,6 @@
     <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
     <a href="http://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
   </p>
-  <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/bottom.svg" alt="bottom">
+  <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
   
   
