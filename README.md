@@ -1,6 +1,7 @@
-
-<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif"  width="650" height="200" />
-
+<img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/up.svg" alt="up">
+<p align="center">
+<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif" width="650" height="200" />
+</p>
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
 
