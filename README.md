@@ -13,11 +13,11 @@
 :pencil2: Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
 </p>
 <p align="center">
-- 🌱 I’m interested in 
+ 🌱 I’m interested in 
   WEB DEVELOPMENT ,MACHINE LEARNING and  CYBERSECURITY
 </p>
 <p align="center">
-- 📫 About to reach me? :runner:
+ 📫 About to reach me? :runner:
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or http://avinashroffl.wordpress.com/
 </p>
