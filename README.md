@@ -3,6 +3,9 @@
 <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif" width="650" height="200" />
 </p>
 <p align="center">
+:pencil2: SHOOT ME A MAIL: avinashroffl@gmail.com :speech_balloon:
+</p>
+<p align="center">
 :pencil2: Catch me also here:
 (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
 
@@ -10,16 +13,11 @@
 :pencil2: Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
 </p>
 <p align="center">
-:pencil2: SHOOT ME A MAIL: avinashroffl@gmail.com :speech_balloon:
-</p>
-<p align="center">
 - 🌱 I’m interested in 
   WEB DEVELOPMENT ,MACHINE LEARNING and  CYBERSECURITY
 </p>
 <p align="center">
 - 📫 About to reach me? :runner:
-</p>
-<p align="center">
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or http://avinashroffl.wordpress.com/
 </p>
