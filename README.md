@@ -7,7 +7,7 @@
 </p>
 <p align="center">
 :pencil2: Catch me also here:
-(https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="40" height="40" />
+(https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="25" height="25" />
 
 <p align="center">
 :pencil2: Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
