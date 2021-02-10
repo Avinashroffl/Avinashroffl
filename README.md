@@ -19,7 +19,7 @@
 <p align="center">
  📫 About to reach me? :runner:
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
-  or http://avinashroffl.wordpress.com/
+  or https://avinashroffl.wordpress.com/
 </p>
 <hr>
 <p align="center">
@@ -30,7 +30,7 @@
     <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/avinashrofficial/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
-    <a href="http://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
+    <a href="https://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
   </p>
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
   
