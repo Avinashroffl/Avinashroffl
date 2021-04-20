@@ -21,8 +21,6 @@
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or https://avinashroffl.wordpress.com/
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashroffl" alt="avinashroffl" /> </p>
-
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
   
    <hr>
@@ -30,12 +28,13 @@
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/1.png" alt="google">
 </p>
 <hr>
+ <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i>
-  <p align="center">
     <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/avinashrofficial/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
     <a href="https://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
   </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashroffl" alt="avinashroffl" /> </p>
   
   
