@@ -20,11 +20,7 @@
  📫 About to reach me? :runner:
  :pencil2:  VISIT MY WEBSITE: https://avinashroffl.github.io/   
   or https://avinashroffl.wordpress.com/
- <hr>
- <p align="center">
-  <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/1.png" alt="google">
-</p></p>
-<hr>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
@@ -36,5 +32,11 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashroffl" alt="avinashroffl" /> </p>
 
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
+  
+   <hr>
+ <p align="center">
+  <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/1.png" alt="google">
+</p></p>
+<hr>
   
   
