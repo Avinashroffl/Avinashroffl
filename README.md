@@ -33,6 +33,8 @@
     <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
     <a href="https://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
   </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashroffl" alt="avinashroffl" /> </p>
+
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
   
   
