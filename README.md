@@ -30,6 +30,8 @@
 <hr>
  <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i>
+ </p>
+  <p align="center">
     <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/avinashrofficial/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/linkedin-fill.svg"></a>
     <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
