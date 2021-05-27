@@ -1,7 +1,5 @@
 <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/top.svg" alt="up">
-<p align="center">
-<img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/video.gif" width="650" height="200" />
-</p>
+
 <p align="center">
 :pencil2: SHOOT ME A MAIL: avinashroffl@gmail.com :speech_balloon:
 </p>
@@ -22,11 +20,6 @@
   or https://avinashroffl.wordpress.com/
 
   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom">
-  
-   <hr>
- <p align="center">
-  <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/1.png" alt="google">
-</p>
 <hr>
  <p align="center">
 <i>Let's connect and chat! Open to anything under the sun.</i>
