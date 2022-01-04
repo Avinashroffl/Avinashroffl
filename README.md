@@ -62,7 +62,7 @@
 <!--   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom"> -->
 <hr>
  <p align="center">
-<i>Let's connect and chat! Open to anything under the sun.</i>
+<i>Let's connect and chat!</i>
  </p>
   <p align="center">
     <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
