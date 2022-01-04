@@ -1,11 +1,12 @@
 ### Hi Everyone, I'm Avinash R  👋
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+developer%2C+love+Technology....)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/top.svg" alt="up"> -->
 
-- :pencil2: SHOOT ME A MAIL: avinashroffl@gmail.com :speech_balloon:
--  ⚡ Catch me also here: (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="25" height="25" />
--  🔭 Looking for an INTERN which can sharpen my knowledge to glow in future. 👋
--  🌱 I’m interested in  WEB DEVELOPMENT ,MACHINE LEARNING and  CYBERSECURITY
--  👯 About to reach me? :runner:    VISIT MY WEBSITE: https://avinashroffl.github.io/  or https://avinashroffl.wordpress.com/
+👉 Mail me at: avinashroffl@gmail.com :speech_balloon:
+👉 Catch me also here: (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="25" height="25" />
+👉 Looking for an INTERN which can sharpen my knowledge so that I could glow in future.
+👉 I’m studious in Web development ,Machine Learning and  Cybersecurity
+👉 About to reach me? :runner:   https://avinashroffl.github.io/ 
 ### Languages and Tools:
 
 [<code>
