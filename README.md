@@ -57,8 +57,9 @@
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
-
-
+<hr>
+ 
+![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinashroffl&theme=dracula)
 
 <!--   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom"> -->
 <hr>
