@@ -62,6 +62,10 @@
 ![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinashroffl&theme=dracula)
 
 <!--   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom"> -->
+<hr/>
+<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=avinashroffl&show_icons=true&theme=radical&count_private=true'/>
+</p>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=avinashroffl&count_private=true&theme=radical" alt="avinashroffl"/> 
 <hr>
  <p align="center">
 <i>Let's connect and chat!</i>
