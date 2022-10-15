@@ -2,7 +2,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+developer%2C+love+Technology....)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/top.svg" alt="up"> -->
 
-👉 Catch me here: (https://about.me/avinashroffl/)   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/img_resize_re_dft.gif" width="25" height="25" /><br>
 👉 Looking for an INTERN which can sharpen my knowledge so that I could glow in future.<br>
 👉 I’m studious in Web development ,Machine Learning and  Cybersecurity<br>
 👉 About to reach me? :runner:   https://avinashroffl.github.io/ <br>
