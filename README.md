@@ -2,76 +2,55 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+developer%2C+love+Technology....)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/top.svg" alt="up"> -->
 
+### About Me <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 👉 I’m studious in Web development ,Machine Learning and  Cybersecurity<br>
-👉 About to reach me? :runner:   https://avinashroffl.github.io/ <br>
+👉 To Know More about me :runner:   https://avinashroffl.github.io/ <br>
 👉 Mail me at: avinashroffl@gmail.com :speech_balloon:<br>
-### Languages and Tools:
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
-</code>](https://www.python.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
- 
-<!-- ![Avinash's github activity graph](https://activity-graph.herokuapp.com/graph?username=avinashroffl&theme=dracula) -->
-
-<!--   <img src="https://github.com/Avinashroffl/Avinashroffl/blob/master/readme/down.svg" alt="bottom"> -->
-<hr/>
-<img align="left" width="48%" src='https://github-readme-stats.vercel.app/api?username=avinashroffl&show_icons=true&theme=radical&count_private=true'/>
+### 💻 Techstack
+<p>
+<img src="https://img.shields.io/badge/Python-00599C.svg?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFA611.svg?logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/OracleSQL-f80125.svg?logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sqlite-1a7dc4.svg?logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dockers-0db7ed.svg?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F1502F.svg?logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"/>
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=avinashroffl&count_private=true&theme=radical" alt="avinashroffl"/> 
+
+<hr/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=avinashroffl&show_icons=true&theme=radical&count_private=true" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashroffl&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=avinashroffl&count_private=true&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></img>
+</p>
 <hr>
+
  <p align="center">
 <i>Let's connect and chat!</i>
  </p>
-  <p align="center">
-    <a href="https://twitter.com/Avinashroffl" alt="Twitter"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/avinashrofficial/" alt="Linkedin"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/linkedin-fill.svg"></a>
-    <a href="mailto:avinashroffl@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/mail-fill.svg"></a>
-    <a href="https://avinashroffl.github.io/" alt="My site"><img src="https://raw.githubusercontent.com/Avinashroffl/Avinashroffl/master/readme/external-link-line.svg"></a>
+ <p align="center">    
+   <a href="https://www.linkedin.com/in/avinashrofficial/" target="_blank">
+    <img align="center" alt="Avinashrofficial | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+   </a> &nbsp;&nbsp;
+   <a href="https://twitter.com/Avinashroffl" target="_blank">
+     <img align="center" alt="Avinashroffl | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+   </a> &nbsp;&nbsp;
+   <a href="https://www.instagram.com/avinashroffl" target="_blank">
+     <img align="center" alt="Avinashroffl | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+   </a> &nbsp;&nbsp;
+   <a href="mailto:avinashroffl@gmail.com">
+     <img align="center" alt="Avinashroffl | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /> 
+   </a> &nbsp;&nbsp;
+   <a href="https://avinashroffl.github.io">
+     <img align="center" alt="Avinashroffl | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+    </a>
   </p>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=avinashroffl" alt="avinashroffl" /> </p>
   
