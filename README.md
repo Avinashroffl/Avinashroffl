@@ -22,8 +22,8 @@
 Results-driven **Senior Java Software Engineer** with **3+ years** of experience designing and shipping scalable backend systems for enterprise SaaS. I work across the full SDLC in Agile teams — REST APIs, distributed systems, event-driven architecture, and cloud-native delivery.
 
 - 💼 **Member Technical Staff** at **Zoho Corporation** (Jun 2023 – Present)
-- 🎓 **B.Tech Information Technology** — Thiagarajar College of Engineering (2019–2023) · **CGPA 9.49**
-- 🏆 **Best Outgoing Student (2019–2023)** · Quick Learner Award @ Zoho
+- 🎓 **B.Tech Information Technology** — Thiagarajar College of Engineering (2019–2023)
+- 🏆 **Best Outgoing Student (2019–2023)**
 - 🌐 Portfolio: [avinashroffl.github.io](https://avinashroffl.github.io/) — macOS / iPhone inspired interactive site
 - 📍 Chennai / Greater Madurai, India
 - 💬 Languages: English · Tamil · Hindi
@@ -84,7 +84,7 @@ Focus areas: backend architecture, API design, performance, automation, mentorin
 
 ## Education & recognition
 
-- **B.Tech IT** — Thiagarajar College of Engineering · **CGPA 9.49** · 2019–2023
+- **B.Tech IT** — Thiagarajar College of Engineering · 2019–2023
 - **Best Outgoing Student (2019–2023)** — academics, leadership & community service
 - Department General Secretary · Placement Coordinator
 - Campus ambassador / representative roles across IIT & IIM student communities
