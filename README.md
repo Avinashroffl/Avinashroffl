@@ -94,21 +94,6 @@ Focus areas: backend architecture, API design, performance, automation, mentorin
 
 ---
 
-## GitHub analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashroffl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashroffl&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinashroffl&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=avinashroffl&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
