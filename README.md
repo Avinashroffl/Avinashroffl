@@ -6,7 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Best+Outgoing+Student+%C2%B7+TCE+IT+'23)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avinashroffl.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://avinashroffl.github.io/)
+[![Interactive Portfolio](https://img.shields.io/badge/Interactive%20Portfolio-avinashroffl.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://avinashroffl.github.io/)
+[![Professional](https://img.shields.io/badge/Professional-Resume%20Page-0D9488?style=for-the-badge&logo=readme&logoColor=white)](https://avinashroffl.github.io/professional/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avinashrofficial-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashrofficial/)
 [![Email](https://img.shields.io/badge/Email-avinashroffl%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashroffl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-avinashroffl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinashroffl)
@@ -24,7 +25,8 @@ Results-driven **Senior Java Software Engineer** with **3+ years** of experience
 - 💼 **Member Technical Staff** at **Zoho Corporation** (Jun 2023 – Present)
 - 🎓 **B.Tech Information Technology** — Thiagarajar College of Engineering (2019–2023)
 - 🏆 **Best Outgoing Student (2019–2023)**
-- 🌐 Portfolio: [avinashroffl.github.io](https://avinashroffl.github.io/) — macOS / iPhone inspired interactive site
+- 🌐 Interactive portfolio: [avinashroffl.github.io](https://avinashroffl.github.io/) — macOS / iPhone inspired site
+- 📄 Professional page: [avinashroffl.github.io/professional](https://avinashroffl.github.io/professional/) — recruiter-focused backend resume
 - 📍 Chennai / Greater Madurai, India
 - 💬 Languages: English · Tamil · Hindi
 
@@ -78,6 +80,7 @@ Focus areas: backend architecture, API design, performance, automation, mentorin
 |---|---|---|
 | [Full-Stack E-Commerce](https://youtube.com/watch?v=qt3w1hJhvSU) | Java · Spring Boot · Vue.js · Docker | Admin + customer portals, auth, cart, checkout, inventory |
 | [macOS Portfolio](https://avinashroffl.github.io/) | HTML · CSS · Vanilla JS | Finder / iPhone dual UI, Terminal, Spotlight, Launchpad |
+| [Professional page](https://avinashroffl.github.io/professional/) | HTML · CSS · Vanilla JS | Recruiter-focused backend resume with impact metrics |
 | Madurai Corona Counter | HTML · JS · Chart.js · PHP | Real-time district COVID tracker with live charts |
 
 ---
@@ -98,7 +101,8 @@ Focus areas: backend architecture, API design, performance, automation, mentorin
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-58A6FF?style=for-the-badge)](https://avinashroffl.github.io/)
+[![Interactive Portfolio](https://img.shields.io/badge/🌐_Interactive-Portfolio-58A6FF?style=for-the-badge)](https://avinashroffl.github.io/)
+[![Professional](https://img.shields.io/badge/📄_Professional-Resume-0D9488?style=for-the-badge)](https://avinashroffl.github.io/professional/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avinashrofficial/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashroffl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avinashroffl)
