@@ -2,9 +2,9 @@
 
 # Hi, I'm Avinash R 👋
 
-### Member Technical Staff @ Zoho · Backend Developer (Java & Spring Boot)
+### Member Technical Staff @ Zoho · Software Developer (Java & Spring Boot)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Best+Outgoing+Student+%C2%B7+TCE+IT+'23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=680&height=70&lines=Building+scalable+application+systems;Java+%7C+Spring+Boot+%7C+Distributed+Systems;Best+Outgoing+Student+%C2%B7+TCE+IT+'23)](https://git.io/typing-svg)
 
 [![Interactive Portfolio](https://img.shields.io/badge/Interactive%20Portfolio-avinashroffl.github.io-0A66C2?style=for-the-badge&logo=safari&logoColor=white)](https://avinashroffl.github.io/)
 [![Professional](https://img.shields.io/badge/Professional-Resume%20Page-0D9488?style=for-the-badge&logo=readme&logoColor=white)](https://avinashroffl.github.io/professional/)
@@ -20,13 +20,13 @@
 
 ## About me
 
-Results-driven **Senior Java Software Engineer** with **3+ years** of experience designing and shipping scalable backend systems for enterprise SaaS. I work across the full SDLC in Agile teams — REST APIs, distributed systems, event-driven architecture, and cloud-native delivery.
+Results-driven **Senior Java Software Engineer** with **3+ years** of experience designing and shipping scalable software systems for enterprise SaaS. I work across the full SDLC in Agile teams — REST APIs, distributed systems, event-driven architecture, and cloud-native delivery.
 
 - 💼 **Member Technical Staff** at **Zoho Corporation** (Jun 2023 – Present)
 - 🎓 **B.Tech Information Technology** — Thiagarajar College of Engineering (2019–2023)
 - 🏆 **Best Outgoing Student (2019–2023)**
 - 🌐 Interactive portfolio: [avinashroffl.github.io](https://avinashroffl.github.io/) — macOS / iPhone inspired site
-- 📄 Professional page: [avinashroffl.github.io/professional](https://avinashroffl.github.io/professional/) — recruiter-focused backend resume
+- 📄 Professional page: [avinashroffl.github.io/professional](https://avinashroffl.github.io/professional/) — recruiter-focused resume
 - 📍 Chennai / Greater Madurai, India
 - 💬 Languages: English · Tamil · Hindi
 
@@ -70,7 +70,7 @@ Results-driven **Senior Java Software Engineer** with **3+ years** of experience
 | Web Developer | Byonz Ventures | Oct 2020 – Dec 2020 |
 | ML Intern | ACM Student Chapter, IIT (ISM) Dhanbad | Jul 2020 – Aug 2020 |
 
-Focus areas: backend architecture, API design, performance, automation, mentoring, and code quality.
+Focus areas: Software architecture, API design, performance, automation, mentoring, and code quality.
 
 ---
 
@@ -80,7 +80,7 @@ Focus areas: backend architecture, API design, performance, automation, mentorin
 |---|---|---|
 | [Full-Stack E-Commerce](https://youtube.com/watch?v=qt3w1hJhvSU) | Java · Spring Boot · Vue.js · Docker | Admin + customer portals, auth, cart, checkout, inventory |
 | [macOS Portfolio](https://avinashroffl.github.io/) | HTML · CSS · Vanilla JS | Finder / iPhone dual UI, Terminal, Spotlight, Launchpad |
-| [Professional page](https://avinashroffl.github.io/professional/) | HTML · CSS · Vanilla JS | Recruiter-focused backend resume with impact metrics |
+| [Professional page](https://avinashroffl.github.io/professional/) | HTML · CSS · Vanilla JS | Recruiter-focused resume with impact metrics |
 | Madurai Corona Counter | HTML · JS · Chart.js · PHP | Real-time district COVID tracker with live charts |
 
 ---
